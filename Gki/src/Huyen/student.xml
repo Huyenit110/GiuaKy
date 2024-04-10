@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <name>Nguyễn Thị Huyền</name>
+    <id>23IT110</id>
+    <address>Quảng Bình</address>
+    <dateOfBirth>27/1/2005</dateOfBirth>
+  </student>
+  <student>
+    <name>Nguyễn Thị Trường Giang</name>
+    <id>23IT660</id>
+    <address>Quảng Nam</address>
+    <dateOfBirth>22/5/2005</dateOfBirth>
+  </student>
+  <student>
+    <name>Phan Thị Khánh Ly</name>
+    <id>23IT234</id>
+    <address>Quảng Nam</address>
+    <dateOfBirth>24/7/2005</dateOfBirth>
+  </student>
+  <student>
+    <name>Nguyễn Xuân Ngọc</name>
+    <id>23IT567</id>
+    <address>Đà Nẵng</address>
+    <dateOfBirth>3/6/2005</dateOfBirth>
+  </student>
+  <student>
+    <name>Thái Văn Quý</name>
+    <id>23IT897</id>
+    <address>Quảng Nam</address>
+    <dateOfBirth>18/5/2005</dateOfBirth>
+  </student>
+</students>
